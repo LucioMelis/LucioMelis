@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Lucio and I come from Cagliari and I'm fascinated by the world of programming👋
 
 <!--
 **LucioMelis/LucioMelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
